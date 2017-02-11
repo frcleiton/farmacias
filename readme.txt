@@ -1,4 +1,4 @@
-<b>Readme</b>
+Readme
 
 Editando o readme
 
