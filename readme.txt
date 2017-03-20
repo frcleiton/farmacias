@@ -1,5 +1,5 @@
 Readme
 
-Editando o readme
+Projeto para a disciplina de TÃ©cnicas de ProgramaÃ§Ã£o V
 
-Projeto para a disciplina de Técnicas de Programação V
+http://www.plantaofarma.com.br
